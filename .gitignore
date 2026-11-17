@@ -14,3 +14,20 @@ env/
 
 # Configurações locais
 .vscode/
+
+# Arquivos de ambiente e chaves
+.env
+.env.*
+!.env.example
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Python
+*.py[cod]
+*.pyo
+
+# Configurações locais
+.vscode/
