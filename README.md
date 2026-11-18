@@ -99,7 +99,7 @@ Windows PowerShell:
 ### 5. Instalar dependências
 
 ```bash
-pip install streamlit google-genai python-dotenv
+pip install -r requirements.txt
 ```
 
 ### 6. Configurar a API
